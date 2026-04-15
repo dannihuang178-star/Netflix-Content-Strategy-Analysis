@@ -8,8 +8,14 @@ Is Netflix reducing content overall, or repositioning its catalog toward a diffe
 
 ## Tools
 - Python (Pandas, Matplotlib)
-- SQL (PostgreSQL)
 - Jupyter Notebook
+
+## Methods
+- Data cleaning
+- Exploratory data analysis
+- Aggregation and grouping
+- Trend analysis
+- Business interpretation
 
 ## Key Findings
 - Annual title additions peaked in 2018 and declined afterward
@@ -22,7 +28,7 @@ Is Netflix reducing content overall, or repositioning its catalog toward a diffe
 The results suggest a deliberate pivot toward retention-oriented content strategy, with stronger emphasis on serialized content and more selective catalog expansion.
 
 ## Repository Structure
-netflix-content-strategy-analysis/
+Netflix-Content-Strategy-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -31,4 +37,4 @@ netflix-content-strategy-analysis/
 ├── data/
 │   └── netflix_titles.csv
 ├── images/
-    └── preview_chart.png
+│   └── preview_chart.png
