@@ -28,6 +28,8 @@ Is Netflix reducing content overall, or repositioning its catalog toward a diffe
 The results suggest a deliberate pivot toward retention-oriented content strategy, with stronger emphasis on serialized content and more selective catalog expansion.
 
 ## Repository Structure
+
+```text
 Netflix-Content-Strategy-Analysis/
 ├── README.md
 ├── requirements.txt
