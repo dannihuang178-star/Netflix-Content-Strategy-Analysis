@@ -13,6 +13,7 @@ Is Netflix reducing content overall, or repositioning its catalog toward a diffe
 
 ## Tools
 - Python (Pandas, Matplotlib)
+- SQL (SQLite-compatible, standard syntax)
 - Jupyter Notebook
 
 ## Methods
