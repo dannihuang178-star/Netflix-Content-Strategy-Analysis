@@ -3,6 +3,11 @@
 ## Project Overview
 This project analyzes 8,800+ Netflix titles to understand whether the post-2018 decline in annual releases reflects content contraction or a strategic shift in portfolio composition.
 
+## Analysis Versions
+This project is presented in two parallel workflows:
+- A pandas-based notebook for exploratory analysis, visualization, and business interpretation
+- A SQL-based version that reproduces selected KPIs and trend logic using structured queries
+
 ## Business Question
 Is Netflix reducing content overall, or repositioning its catalog toward a different content strategy?
 
@@ -39,4 +44,9 @@ Netflix-Content-Strategy-Analysis/
 ├── data/
 │   └── netflix_titles.csv
 ├── images/
-│   └── preview_chart.png
+│   └── 01_Netfilx Content Additions by Year 2010-2021.png
+│   └── 02_Content Type Proportion 2010-2021.png
+│   └── 03_Average Movie Duration Trend 2010-2021.png
+│   └── 04_Top 8 Producing Countries 2010-2021.png
+├── sql/
+│   └── netflix_content_strategy_analysis.sql
